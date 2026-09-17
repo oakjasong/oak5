@@ -1,5 +1,5 @@
 [theme]
-primaryColor = "#DC002B"          # 슬라이더, 버튼 강조색 (자이언츠 레드)
-backgroundColor = "#FFFFFF"       # 메인 배경색 (화이트)
-secondaryBackgroundColor = "#041E42" # 사이드바 배경색 (헤리티지 네이비)
-textColor = "#dark"              # 기본 글씨색
+primaryColor = "#DC002B"          # 슬라이더, 버튼 강조 (자이언츠 레드)
+backgroundColor = "#FFFFFF"       # 메인 배경 (화이트)
+secondaryBackgroundColor = "#112236" # 사이드바 배경 (딥 헤리티지 네이비)
+textColor = "#0A192F"              # 본문 글자색 (어두운 네이비)
